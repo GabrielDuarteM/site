@@ -5,8 +5,8 @@
   "author": "Gabriel Duarte",
   "dependencies": {
     "modern-normalize": "0.6.0",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-helmet": "5.2.1",
     "styled-components": "5.1.0"
   },
